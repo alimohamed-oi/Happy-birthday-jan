@@ -127,7 +127,7 @@ const LoveLetter = () => {
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
                             <span className='munna font-sriracha md:text-2xl text-lg'>Extra Messages</span>
-                            <span className='munna font-dancingScript md:text-3xl text-xl'>For Janjon</span>
+                            <span className='munna font-dancingScript md:text-3xl text-xl'>For JanJon</span>
                         </div>
                     </div>
                     <div className="munna envelope-folds">
