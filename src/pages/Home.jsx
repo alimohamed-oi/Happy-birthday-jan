@@ -119,7 +119,7 @@ const Home = () => {
                             </div>
                             <div className="name">
                                 <i className="fa-solid fa-heart"></i>
-                                <span>Dear Razan</span>
+                                <span>Dear Janjon</span>
                                 <i className="fa-solid fa-heart"></i>
                             </div>
                             <div className="balloon_one">
